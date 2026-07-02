@@ -9,7 +9,7 @@
   <Identity
     Name="BRStudios.Transhef"
     Publisher="CN=A43ACDD8-D8D2-4B12-B25B-98D2138C0CFE"
-    Version="1.0.0.0" />
+    Version="1.5.1.0" />
 
   <mp:PhoneIdentity PhoneProductId="1484e2fa-2933-4ba4-9565-46fe74475f53" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
